@@ -18,7 +18,7 @@ jobs:
     - image: amazon/aws-cli
   steps:
     - checkout   
-    - destroy_environment
+    - destroy_environment 
  
   
 # Sequential workflow
